@@ -4,8 +4,8 @@
 - 🌱 I’m currently discovering New Languages
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: no fact bcz my life is fun 
 
 <!---
 sar77vesh/sar77vesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
